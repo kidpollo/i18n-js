@@ -24,3 +24,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency "ruby-debug19"
   s.add_development_dependency "spec-js", "~> 0.1.0.beta.0"
 end
+
+//test
